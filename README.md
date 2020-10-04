@@ -1,4 +1,4 @@
 ## Info
 
-Repository added in order to avoid resume bloat.
+Repository added in order to avoid resume bloating.
 
